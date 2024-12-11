@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋! My name is Packson Fordyota and I'm a software developer and car dealer, from California.
 
 <!--
 **PFord69/PFord69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
